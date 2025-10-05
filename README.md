@@ -70,8 +70,10 @@ I enjoy tackling complex challenges in SQL, Python (Pandas), and  building data 
   <a href="https://github.com/MiaTran1112/spirit_airlines_dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiaTran1112&repo=spirit_airlines_dashboard&theme=radical" />
   </a>
+    <a href="https://github.com/MiaTran1112/skytrax_review_ml_pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiaTran1112&repo=skytrax_review_ml_pipeline&theme=radical" />
+  </a>
 </p>
-
 
 ---
 
