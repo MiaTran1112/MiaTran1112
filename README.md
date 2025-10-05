@@ -1,15 +1,19 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8+%2C;I%27m+Mia+Tran)](https://git.io/typing-svg)
 
-## 🎓 Junior @ Smith College (Statistical & Data Sciences, Quantitative Economics)  
+# 🎓 Junior @ Smith College (Statistical & Data Sciences, Quantitative Economics)  
 
-## 💡 Passionate about Data Analysis, Business Intelligence, and Data Science
+# 💡 Passionate about Data Analysis, Business Intelligence, and Data Science
 
 ---
 
 ## 🧠 About Me
 
+<div align='center'>
+
 *"Ever since I was young I wanted to transform unstructured data into actionable business insights."*
+
 Small body, big dreams, loud "voice", and irresistable positive energy.
+</div>
 <div align="center">
 
 ![Working on](https://img.shields.io/badge/Working%20On-EDA%20And%20Data%20Visualization-blue) 
