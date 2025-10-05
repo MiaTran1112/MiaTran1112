@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8+%2C;I%27m+Mia+%28Tran)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8+%2C;I%27m+Mia+Tran)](https://git.io/typing-svg)
 
 ## 🎓 Junior @ Smith College (Statistical & Data Sciences, Quantitative Economics)  
 
