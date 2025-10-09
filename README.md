@@ -9,8 +9,8 @@
 </div>
 
 * Junior @ Smith College (Statistical & Data Sciences, Quantitative Economics)
-* Passionate about Data Analysis, Business Intelligence, and Data Science.
-* Small body, big dreams, loud "voice", and irresistable positive energy.
+* Passionate about Data Analysis, Business Intelligence, and Data Science with proficiency in SQL, Python, R, Tableau, Power BI, and Excel, with experience building data pipelines and ML models.
+* Besides coding, I am a sports lover, traveller, foodie, and a cat person 
 
 
 <div align="center">
@@ -56,13 +56,6 @@
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
-
-## 🔍 Interests
-
-I enjoy tackling complex challenges in SQL, Python (Pandas), and  building data pipelines and ML models.
-
----
-
 ## 🚀 Projects Showcase  
 
 <p align="center">
