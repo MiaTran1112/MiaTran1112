@@ -73,3 +73,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miatran1207/)
 > Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
+
