@@ -1,81 +1,96 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=1500&pause=50&color=FFFFFF&multiline=true&repeat=false&width=1300&height=140&lines=Hi+there+%E2%9C%A8+%2C;I%27m+Mia+Tran+(chihuahua))](https://git.io/typing-svg)
-
-## About Me
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=2500&pause=300&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=120&lines=Hi+there+✨+%2C+I'm+Mia+Tran+(chihuahua);Data+Science+%26+Business+Intelligence+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://thegoodshirts.com/cdn/shop/files/classic-dad-hat-cranberry-front-68adcf8683571.png?v=1756707810&width=1946" alt="Cool Hat" width="400">
+  <img src="https://images6.alphacoders.com/873/thumb-1920-873666.png" alt="Coder aesthetic" width="200">
 </p>
 
+---
 
-* Junior @ Smith College (Statistical & Data Sciences, Quantitative Economics)
-* Passionate about Data Analysis, Business Intelligence, and Data Science with proficiency in SQL, Python, R, Tableau, Power BI, and Excel, with experience building data pipelines and ML models.
-* Besides coding, I am a sports lover, traveller, foodie, and a cat person 
+## 👩🏻‍💻 About Me
 
+- 🎓 Junior at **Smith College**, double majoring in **Statistical & Data Sciences** and **Quantitative Economics**
+- 💡 Passionate about turning **data into actionable insights** through analytics and machine learning
+- 🧠 Skilled in **SQL, Python, R, Tableau, Power BI**, and **Excel**
+- ⚙️ Experienced in building **automated data pipelines** and **dynamic reporting systems**
+- 🏸 Outside of coding, I love **sports**, **traveling**, **trying new foods**, and caring for my **cat 🐱**
 
 <div align="center">
 
-![Working on](https://img.shields.io/badge/Working%20On-EDA%20And%20Data%20Visualization-blue) 
-![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-00e5ff) 
-![Learning](https://img.shields.io/badge/Learning-Building%20ML%20&%20Models-orange)
+![Working on](https://img.shields.io/badge/Working%20On-EDA%20%26%20Visualization-0078D7?style=for-the-badge)
+![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-29B5E8?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-ML%20Models%20%26%20Pipelines-FFB000?style=for-the-badge)
+
 </div>
 
----
-
-## Experience
-
-- **Data Analytics Intern** @ [VNPT](https://vnpt.com.vn/) – *Telecommunications company*
-- **Data Analytics Intern** @ [Viettel Group](https://viettel.com.vn/en/) – *Multinational telecommunications, technology and manufacturing conglomerate*
-- **Research Office Data Assistant** @ Smith College Development Research Team
-- **SDS Tutor* @ Spinelli Center for Quantitative Learning 
-
+> “Turning data into stories that drive action 📊”
 
 ---
 
-## Languages and Tools:**
+## 🏢 Experience
 
-<p align="center">
-
-  <div align="center">
-
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png" alt="R"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mode-analytics.svg" alt="Mode Analytics"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/snowflake.svg" alt="Snowflake"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/amazon-redshift-logo.svg" alt="Amazon Redshift"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/databricks.svg" alt="Databricks"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/dbt-logo.svg" alt="dbt"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/airflow-1.svg" alt="Apache Airflow"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="Microsoft SQL Server"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"></code>
-  <code><img height="40" src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code>
-  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle"></code>
-  <code><img height="40" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="DBeaver"></code>
-
-  </div>
-</p>
-
+- **Data Analytics Intern** @ [VNPT](https://vnpt.com.vn/) — built an automated PDF reporting system deployed across departments
+- **Data Analytics Intern** @ [Viettel Group](https://viettel.com.vn/en/) — analyzed customer data using SQL and Python
+- **Research Office Data Assistant** @ Smith College — managed large datasets using R and MySQL for faculty research
+- **SDS Tutor** @ Spinelli Center — supported peers in data science and programming coursework
 
 ---
-**GitHub Stats:**
+
+## 🛠️ Languages and Tools
+
+**Programming:**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+
+**Visualization & BI:**  
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+![Mode Analytics](https://img.shields.io/badge/Mode%20Analytics-%23005A9C.svg?style=for-the-badge&logo=mode&logoColor=white)
+
+**Data Engineering:**  
+![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%23232F3E.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+**Database & DevOps:**  
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-%234B275F.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MiaTran1112&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=10">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaTran1112&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&layout=compact&theme=gotham)
 
 </p>
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miatran1207/)
-> Feel free to explore my projects and reach out for collaboration or discussion. Looking forward to connecting with you!
+<p align="center">
+  <a href="https://www.linkedin.com/in/miatran1207/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MiaTran1112">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💌 *Feel free to explore my projects or reach out for collaboration — always happy to connect!*
+</p>
 
