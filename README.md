@@ -1,7 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=35&duration=2500&pause=300&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi+there+✨,+I'm+Mia+Tran+(chihuahua);Data+Science+%26+Business+Intelligence+Enthusiast)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=30&duration=2500&pause=300&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=90&lines=Hi+there+✨,+I'm+Mia+Tran+(chihuahua);Data+Science+%26+Business+Intelligence+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://images6.alphacoders.com/873/thumb-1920-873666.png" alt="Coder aesthetic" width="350">
+  <img src="https://images6.alphacoders.com/873/thumb-1920-873666.png" alt="Coder aesthetic" width="400">
 </p>
 
 ---
