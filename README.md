@@ -80,14 +80,14 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miatran1207/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MiaTran1112">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-f5c6ec?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
