@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=550&size=26&duration=2500&pause=300&color=FFC0CB&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=90&lines=Hi+there+✨,+I'm+Mia+Tran+(chihuahua);Data+Science+%26+Business+Intelligence+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="image/coding_cat.jpeg" alt="Coding Cat" width="400"/>
+  <img src="image/coding_cat.jpeg" alt="Coding Cat" width="360"/>
 </p>
 
-
----
+<hr style="border: 1px solid #f5c6ec;">
 
 ## 👩🏻‍💻 About Me
 
@@ -17,15 +16,17 @@
 
 <div align="center">
 
-![Working on](https://img.shields.io/badge/Working%20On-EDA%20%26%20Visualization-0078D7?style=for-the-badge)
-![Scaling](https://img.shields.io/badge/Scaling-Snowflake%20%26%20Redshift-29B5E8?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-ML%20Models%20%26%20Pipelines-FFB000?style=for-the-badge)
+<img src="https://img.shields.io/badge/🌷 Working_On-Data_Visualization_&_Storytelling-ffb6c1?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠 Exploring-Data_Pipelines_&_Automation-f7c6d9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/💡 Learning-Machine_Learning_&_Modeling-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<br><br>
+
+💬 <em><strong>Turning data into stories that inspire action 📊</strong></em>
 
 </div>
 
-> “Turning data into stories that drive action 📊”
-
----
+<hr style="border: 1px solid #f5c6ec;">
 
 ## 🏢 Experience
 
@@ -34,64 +35,63 @@
 - **Research Office Data Assistant** @ Smith College — managed large datasets using R and MySQL for faculty research
 - **SDS Tutor** @ Spinelli Center — supported peers in data science and programming coursework
 
----
+<hr style="border: 1px solid #f5c6ec;">
 
 ## 🛠️ Languages and Tools
 
-**Programming:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
+**Programming**  
+<img src="https://img.shields.io/badge/Python-ffeff7?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=ffeff7" />
+<img src="https://img.shields.io/badge/R-ffeff7?style=for-the-badge&logo=r&logoColor=276DC3&labelColor=ffeff7" />
+<img src="https://img.shields.io/badge/SQL-ffeff7?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=ffeff7" />
 
-**Visualization & BI:**  
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-![Mode Analytics](https://img.shields.io/badge/Mode%20Analytics-%23005A9C.svg?style=for-the-badge&logo=mode&logoColor=white)
+**Visualization & BI**  
+<img src="https://img.shields.io/badge/Tableau-ffd1dc?style=for-the-badge&logo=tableau&logoColor=ffffff&labelColor=ffd1dc" />
+<img src="https://img.shields.io/badge/Power%20BI-ffd1dc?style=for-the-badge&logo=power-bi&logoColor=000000&labelColor=ffd1dc" />
+<img src="https://img.shields.io/badge/Mode%20Analytics-ffd1dc?style=for-the-badge&logo=google-analytics&logoColor=ffffff&labelColor=ffd1dc" />
 
-**Data Engineering:**  
-![Snowflake](https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-%23232F3E.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+**Data Engineering**  
+<img src="https://img.shields.io/badge/Snowflake-f7c6d9?style=for-the-badge&logo=snowflake&logoColor=ffffff&labelColor=f7c6d9" />
+<img src="https://img.shields.io/badge/Amazon%20Redshift-f7c6d9?style=for-the-badge&logo=amazon-redshift&logoColor=ffffff&labelColor=f7c6d9" />
+<img src="https://img.shields.io/badge/Databricks-f7a8b8?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=f7a8b8" />
+<img src="https://img.shields.io/badge/dbt-f7a8b8?style=for-the-badge&logo=dbt&logoColor=ffffff&labelColor=f7a8b8" />
+<img src="https://img.shields.io/badge/Apache%20Spark-f5c6ec?style=for-the-badge&logo=apachespark&logoColor=ffffff&labelColor=f5c6ec" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-f5c6ec?style=for-the-badge&logo=apache-airflow&logoColor=ffffff&labelColor=f5c6ec" />
 
-**Database & DevOps:**  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-%234B275F.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+**Database & DevOps**  
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-ffb6c1?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff&labelColor=ffb6c1" />
+<img src="https://img.shields.io/badge/MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=ffb6c1" />
+<img src="https://img.shields.io/badge/SQLite-ffb6c1?style=for-the-badge&logo=sqlite&logoColor=ffffff&labelColor=ffb6c1" />
+<img src="https://img.shields.io/badge/Oracle-ff69b4?style=for-the-badge&logo=oracle&logoColor=ffffff&labelColor=ff69b4" />
+<img src="https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=ff69b4" />
+<img src="https://img.shields.io/badge/Git-f7a8b8?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=f7a8b8" />
+<img src="https://img.shields.io/badge/GitHub-f5c6ec?style=for-the-badge&logo=github&logoColor=000000&labelColor=f5c6ec" />
+<img src="https://img.shields.io/badge/DBeaver-f5c6ec?style=for-the-badge&logo=dbeaver&logoColor=ffffff&labelColor=f5c6ec" />
 
----
+<hr style="border: 1px solid #f5c6ec;">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiaTran1112&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&layout=compact&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api?username=MiaTran1112&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&icon_color=ff1493&border_color=f7a8b8" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&layout=compact&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&icon_color=ff1493&border_color=f7a8b8" />
 
 </p>
 
----
+<hr style="border: 1px solid #f5c6ec;">
 
-## 🤝 Connect with Me  
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miatran1207/">
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MiaTran1112">
-    <img src="https://img.shields.io/badge/GitHub-f5c6ec?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-f5c6ec?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
 </p>
 
 <p align="center">
-  💌 *Feel free to explore my projects or reach out for collaboration — always happy to connect!*
+  💌 <em>Feel free to explore my projects or reach out for collaboration — always happy to connect!</em>
 </p>
-
