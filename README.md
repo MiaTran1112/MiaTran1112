@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/🧠 Exploring-Data_Pipelines_&_Automation-f7c6d9?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/💡 Learning-Machine_Learning_&_Modeling-ff69b4?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
-<br><br>
-
-💬 <em><strong>Turning data into stories that inspire action 📊</strong></em>
-
 </div>
 
 <hr style="border: 1px solid #f5c6ec;">
