@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MiaTran1112&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&icon_color=ff1493&border_color=f7a8b8" />
+<img src="https://github-readme-stats.vercel.app/api?username=MiaTran1112&show_icons=true&hide_title=true&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&icon_color=ff1493&border_color=f7a8b8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&layout=compact&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&icon_color=ff1493&border_color=f7a8b8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaTran1112&layout=compact&bg_color=ffeff7&title_color=ff69b4&text_color=5a5a5a&border_color=f7a8b8" />
 
 </p>
 
