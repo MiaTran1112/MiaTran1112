@@ -83,8 +83,8 @@
   <a href="https://www.linkedin.com/in/miatran1207/">
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/MiaTran1112">
-    <img src="https://img.shields.io/badge/GitHub-f5c6ec?style=for-the-badge&logo=github&logoColor=000000" />
+  <a href="mailto:mia.phuongtran11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f5c6ec?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </p>
 
